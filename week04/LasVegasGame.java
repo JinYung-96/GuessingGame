@@ -3,11 +3,9 @@ package week04;
 import java.util.Random;
 
 /**
- * This is a guided programming assignment
+ * This is a programming assignment
  * It will use enumerations, arrays, selection and repetition.
  * 
- * @author scottl
- *
  */
 public class LasVegasGame
 {	
